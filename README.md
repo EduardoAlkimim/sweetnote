@@ -1,8 +1,5 @@
-README.md para seu projeto
-markdown
-Copiar
-Editar
-# Nome do Projeto
+
+# Sweetnote
 
 Descrição breve do projeto.  
 Projeto fullstack desenvolvido com Vue.js no frontend, Node.js no backend, estilizado com Tailwind CSS e usando banco de dados SQL.
