@@ -1,6 +1,6 @@
-# Sweetnote
+﻿# Sweetnote
 
-Aplicativo de notas full stack, com frontend em Vue.js, backend em Node.js e estilização em Tailwind CSS.
+Aplicativo de notas full stack, com frontend em Vue.js, backend em Node.js e estilizaÃ§Ã£o em Tailwind CSS.
 
 ## Stack
 
@@ -11,10 +11,10 @@ Aplicativo de notas full stack, com frontend em Vue.js, backend em Node.js e est
 ## Como rodar localmente
 
 ```bash
-git clone https://github.com/EduardoAlkimim/Sweetnote.git
+git clone https://github.com/EduardoAlkimim/sweetnote.git
 cd Sweetnote
 npm install
 npm run dev
 ```
 
-Configure o backend em `backend/` com suas próprias variáveis de ambiente (`.env`, não versionado).
+Configure o backend em `backend/` com suas prÃ³prias variÃ¡veis de ambiente (`.env`, nÃ£o versionado).
