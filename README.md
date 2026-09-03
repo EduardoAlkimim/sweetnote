@@ -1,23 +1,20 @@
-
 # Sweetnote
 
-Descrição breve do projeto.  
-Projeto fullstack desenvolvido com Vue.js no frontend, Node.js no backend, estilizado com Tailwind CSS e usando banco de dados SQL.
+Aplicativo de notas full stack, com frontend em Vue.js, backend em Node.js e estilização em Tailwind CSS.
 
----
+## Stack
 
-## Tecnologias usadas
+- **Frontend:** Vue.js, Tailwind CSS
+- **Backend:** Node.js
+- **Banco de dados:** SQL
 
-- Vue.js  
-- Node.js  
-- Tailwind CSS  
-- SQL (PostgreSQL, MySQL, ou outro, especifique aqui)
+## Como rodar localmente
 
----
+```bash
+git clone https://github.com/EduardoAlkimim/Sweetnote.git
+cd Sweetnote
+npm install
+npm run dev
+```
 
-## Pré-requisitos
-
-- Node.js instalado ([baixar aqui](https://nodejs.org/))  
-- Banco de dados SQL configurado (PostgreSQL, MySQL, etc)  
-- Yarn ou npm (gerenciador de pacotes)
-
+Configure o backend em `backend/` com suas próprias variáveis de ambiente (`.env`, não versionado).
